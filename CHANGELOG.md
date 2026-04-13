@@ -4,3 +4,4 @@
 
 ### 추가
 - 프로젝트 초기화
+- Rate Limiter (Token Bucket 알고리즘, 키 기반 제한)
